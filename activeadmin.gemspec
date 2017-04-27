@@ -21,7 +21,7 @@ Gem::Specification.new do |s|
   s.add_dependency 'arbre',               '>= 1.1.1'
   s.add_dependency 'bourbon'
   s.add_dependency 'coffee-rails'
-  s.add_dependency 'formtastic',          '~> 3.1'
+  s.add_dependency 'formtastic',          '>= 3.1'
   s.add_dependency 'formtastic_i18n'
   s.add_dependency 'inherited_resources', '~> 1.7'
   s.add_dependency 'jquery-rails'
